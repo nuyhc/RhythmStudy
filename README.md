@@ -16,8 +16,8 @@
 | 22.12.28 | PyTorch | V | [PTM] 6장. 신경망을 활용한 데이터 적합 <br> [PTM] 7장. 새와 비행기 구별하기: 이미지 학습 |
 | 23.01.04 | PyTorch | V | [PTM] 8장. 컨볼루션을 활용한 일반화 <br> [PTM] 9장. 암과 싸워 이기기 위한 파이토치 활용 |
 | 23.01.14 | PyTorch | V | [PTM] 10장. 여러 데이터 소스를 통합 데이터셋으로 합치기 <br> [PTM] 11장. 종양 탐지를 위한 분류 모델 훈련 |
-| 23.01.18 | PyTorch | - | [BC] Part-1 Basic ML |
-| 23.01.25 | PyTorch | - | [BC] Part-2 DNN |
+| 23.01.18 | PyTorch | V | [BC] Part-1 Basic ML |
+| 23.01.25 | PyTorch | V | [BC] Part-2 DNN |
 | 23.02.01 | PyTorch | - | [BC] Part-3 CNN |
 | 23.02.08 | PyTorch | - | [BC] Part-4 RNN |
 
