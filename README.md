@@ -18,7 +18,7 @@
 | 23.01.14 | PyTorch | V | [PTM] 10장. 여러 데이터 소스를 통합 데이터셋으로 합치기 <br> [PTM] 11장. 종양 탐지를 위한 분류 모델 훈련 |
 | 23.01.18 | PyTorch | V | [BC] Part-1 Basic ML |
 | 23.01.25 | PyTorch | V | [BC] Part-2 DNN |
-| 23.02.01 | PyTorch | - | [BC] Part-3 CNN |
+| 23.02.01 | PyTorch | V | [BC] Part-3 CNN |
 | 23.02.08 | PyTorch | - | [BC] Part-4 RNN |
 
 ### Reference
