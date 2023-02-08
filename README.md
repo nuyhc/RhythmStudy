@@ -19,7 +19,9 @@
 | 23.01.18 | PyTorch | V | [BC] Part-1 Basic ML |
 | 23.01.25 | PyTorch | V | [BC] Part-2 DNN |
 | 23.02.01 | PyTorch | V | [BC] Part-3 CNN |
-| 23.02.08 | PyTorch | - | [BC] Part-4 RNN |
+| 23.02.08 | PyTorch | V | [BC] Part-4 RNN |
+| 23.02.15 | DSP | - | 1. Overview  <br> 2. Sound and waveforms <br> 3.Intensity, loudness, and timbre |
+| 23.02.22 | DSP | - | 4. Understanding audio signals <br> 5. Types of audio features for ML |
 
 ### Reference
 - [PyTorch] [[파이토치 딥러닝 마스터]](https://github.com/deep-learning-with-pytorch/dlwpt-code)
