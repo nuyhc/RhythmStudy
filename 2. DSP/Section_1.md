@@ -67,4 +67,23 @@
     - Continuous (Noise)
     - Transient (Pulse)
 
+### Frequency and Amplitude
+- Freq. -> higer
+- Amp. -> louder
+
+### Pitch
+- Logarithmic perception
+- 2 frequencies are perceived similarly if thet differ by a power of 2
+- A4(440Hz) / A5(880Hz)
+
+### Mapping pitch to freq.
+$$F(p) = 2^{ {p-69} \over 12 } \times 440$$
+$$F(p+1)/F(p) = 2^{1/12} = 1.059$$
+
+### Cents
+- 특정한 두 음의 음고(Pitch) 높낮이의 거리를 로그(Logarithm, log) 스케일로 표시하는 단위
+- Octave divided in 1200 cents
+- 100 cents in a semitone
+- Noticeable pitch difference: 10-25 cents
+
 ## 3. Intensity, loudness, and timbre (세기와 음색)
