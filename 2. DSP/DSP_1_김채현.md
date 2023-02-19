@@ -87,3 +87,72 @@ $$F(p+1)/F(p) = 2^{1/12} = 1.059$$
 - Noticeable pitch difference: 10-25 cents
 
 ## 3. Intensity, loudness, and timbre (세기와 음색)
+### Sound Power
+- Rate at which energy is transferred
+- Energy per unit of time emitted by a sound source in all directions
+- Measured in watt (W)
+
+### Sound Intensity
+- Sound power per unit area
+- Measurd in $W/m^2$
+
+### Threshold of Hearing
+- $TOH = 10^{-12}W/m^2$
+
+### Threshold of Pain
+- $TOP = 10W/m^2$
+
+### Intensity level
+- Logarithmic scale
+- Measured in decibels (dB)
+- Ration between two intensity values
+- Use an intensity of reference (TOH)
+
+$dB(I) = 10 \log_{10}({I \over I_{TOH} })$
+- ~3dBs -> intensity doubles
+
+### Loudness
+- Subjective perception of sound intensity
+- Depends on duration / frequency of a sound
+- Depends on age
+- Measured in phons (복잡한 소리에 대한 음량 레벨의 로그 단위)
+
+### Timbre
+- Colour of sound
+- Diff between two sounds with same intensity, frequency, duration
+
+### What are the features of timbre?
+- Timbre is multidimensional
+- Sound envelope
+- Harmonic content
+
+### Sound envelope
+- Attack-Decay-Sustain-Release (ADSR) Model
+
+### Complex sound
+- Superposition of sinusoids
+- A partial a sinusoid used to describe a sound
+- The lowest partial is called fundamental frequnecy
+- A harmonic partial is a frequency that's multiple of the fundamental frequency
+- Inharmonicity indicates a deviation from a harmonic partial
+
+### Frequency modulation
+- AKA vibrato
+- Periodic variation in frequency
+- In music, used for expressive purposes
+
+### Amplitude modulation
+- AKA tremolo
+- Periodic variation in amplitude
+- In music, used for expressive purposes
+
+### Timbre recap
+- Multifactorial sound dimension
+- Amplitude envelope
+- Distribution of energy across partials
+- Signal modulation (frequency/amplitude)
+
+### Sound recap
+- Sound is a wave
+- Frequency, Intensity, Timbre
+- Pitch, Loudness, Timbre
