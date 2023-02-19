@@ -86,13 +86,13 @@ $$F(p+1)/F(p) = 2^{1/12} = 1.059$$
 - 100 cents in a semitone
 - Noticeable pitch difference: 10-25 cents
 
-## 3. Intensity, loudness, and timbre (세기와 음색)
+## 3. Intensity, loudness, and timbre (강도, 음량과 음색)
 ### Sound Power
 - Rate at which energy is transferred
 - Energy per unit of time emitted by a sound source in all directions
 - Measured in watt (W)
 
-### Sound Intensity
+### Sound Intensity (기준으로 이야기할 수 있는 세기)
 - Sound power per unit area
 - Measurd in $W/m^2$
 
@@ -111,7 +111,7 @@ $$F(p+1)/F(p) = 2^{1/12} = 1.059$$
 $dB(I) = 10 \log_{10}({I \over I_{TOH} })$
 - ~3dBs -> intensity doubles
 
-### Loudness
+### Loudness (주관적인 인식 세기)
 - Subjective perception of sound intensity
 - Depends on duration / frequency of a sound
 - Depends on age
