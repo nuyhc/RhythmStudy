@@ -21,7 +21,7 @@
 | 23.02.01 | PyTorch | V | [BC] Part-3 CNN |
 | 23.02.08 | PyTorch | V | [BC] Part-4 RNN |
 | 23.02.19 | DSP | V | 1. Overview  <br> 2. Sound and waveforms <br> 3.Intensity, loudness, and timbre |
-| 23.02.22 | DSP | - | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
+| 23.02.22 | DSP | V | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
 | 23.03.01 | DSP | - | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
 
 ### Reference
