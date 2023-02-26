@@ -1,3 +1,6 @@
 # tf2torch FKD 데이터 폴더
 FKD/
 ACLF/
+
+# DSP 오디오 데이터 폴더
+raw/
