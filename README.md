@@ -22,8 +22,9 @@
 | 23.02.08 | PyTorch | V | [BC] Part-4 RNN |
 | 23.02.19 | DSP | V | 1. Overview  <br> 2. Sound and waveforms <br> 3.Intensity, loudness, and timbre |
 | 23.02.22 | DSP | V | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
-| 23.03.01 | DSP | - | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
+| 23.03.01 | DSP | V | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
 | 23.03.08 | DSP | - | 10. Fourier Transform: The Intuition <br> 11. Complex numbers for audio signal processing <br> 12. Defining the Fourier transform using complex numbers |
+| 23.03.15 | DSP | - | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
 
 ### Reference
 - [PyTorch] [[파이토치 딥러닝 마스터]](https://github.com/deep-learning-with-pytorch/dlwpt-code)
