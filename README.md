@@ -24,7 +24,9 @@
 | 23.02.22 | DSP | V | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
 | 23.03.01 | DSP | V | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
 | 23.03.08 | DSP | V | 10. Fourier Transform: The Intuition <br> 11. Complex numbers for audio signal processing <br> 12. Defining the Fourier transform using complex numbers |
-| 23.03.15 | DSP | - | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
+| 23.03.18 | DSP | - | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
+| 23.03.22 | DSP | - | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
+| 23.03.29 | DSP | - | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features |
 
 ### Reference
 - [PyTorch] [[파이토치 딥러닝 마스터]](https://github.com/deep-learning-with-pytorch/dlwpt-code)
