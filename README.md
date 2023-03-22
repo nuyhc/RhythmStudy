@@ -20,13 +20,13 @@
 | 23.01.25 | PyTorch | V | [BC] Part-2 DNN |
 | 23.02.01 | PyTorch | V | [BC] Part-3 CNN |
 | 23.02.08 | PyTorch | V | [BC] Part-4 RNN |
-| 23.02.19 | DSP | V | 1. Overview  <br> 2. Sound and waveforms <br> 3.Intensity, loudness, and timbre |
-| 23.02.22 | DSP | V | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
-| 23.03.01 | DSP | V | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
-| 23.03.08 | DSP | V | 10. Fourier Transform: The Intuition <br> 11. Complex numbers for audio signal processing <br> 12. Defining the Fourier transform using complex numbers |
-| 23.03.18 | DSP | - | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
-| 23.03.22 | DSP | - | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
-| 23.03.29 | DSP | - | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features |
+| 23.02.19 | DSP1 | V | 1. Overview  <br> 2. Sound and waveforms <br> 3.Intensity, loudness, and timbre |
+| 23.02.22 | DSP2 | V | 4. Understanding audio signals <br> 5. Types of audio features for ML <br> 6. How to extract audio features |
+| 23.03.01 | DSP3 | V | 7. Time-domain audio features <br> 8. Implemneting the amplitude envelope <br> 9. RMS energy and zero-crossing rate |
+| 23.03.08 | DSP4 | V | 10. Fourier Transform: The Intuition <br> 11. Complex numbers for audio signal processing <br> 12. Defining the Fourier transform using complex numbers |
+| 23.03.18 | DSP5 | V | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
+| 23.03.22 | DSP6 | V | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
+| 23.03.29 | DSP7 | - | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
 
 ### Reference
 - [PyTorch] [[파이토치 딥러닝 마스터]](https://github.com/deep-learning-with-pytorch/dlwpt-code)
