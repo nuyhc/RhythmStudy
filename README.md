@@ -26,8 +26,10 @@
 | 23.03.08 | DSP4 | V | 10. Fourier Transform: The Intuition <br> 11. Complex numbers for audio signal processing <br> 12. Defining the Fourier transform using complex numbers |
 | 23.03.18 | DSP5 | V | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
 | 23.03.22 | DSP6 | V | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
-| 23.03.29 | DSP7 | - | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
-
+| 23.03.29 | DSP7 | V | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
+| 23.04.05 | DeepLearningForAudio | - | 1. Course overview <br> 2. Ai, machine learning and deep learning <br> 3. Implementing an artificial neuron from scratch <br> 4. Vector and matrix operations |
+  
+  
 ### Reference
 - [PyTorch] [[파이토치 딥러닝 마스터]](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 ```python
