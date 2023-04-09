@@ -2,10 +2,10 @@
 오디오 딥러닝 마스터 되기
 
 ### Member
-| 김채현 | 박지현 |
-| :---: | :---: |
-| <img src='https://avatars.githubusercontent.com/u/55968794?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/108461149?v=4' height=80 width=80></img> |
-| <a href="https://github.com/nuyhc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/milhaud1201"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
+| 김채현 | 박지현 | 김용희 |
+| :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/55968794?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/108461149?v=4' height=80 width=80></img> | <img src='https://avatars.githubusercontent.com/u/93321471?v=4' height=80 width=80></img> |
+| <a href="https://github.com/nuyhc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/milhaud1201"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> | <a href="https://github.com/YongHeee-Kim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF&"/> |
 
 ### Schedule
 | Date | Plan | Do | Note |
@@ -27,7 +27,8 @@
 | 23.03.18 | DSP5 | V | 13. Discrete Fourier Transform <br> 14. Extracting Spectrograms from Audio with Python <br> 15. Short-Time Fourier Transfom explained easily |
 | 23.03.22 | DSP6 | V | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
 | 23.03.29 | DSP7 | V | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
-| 23.04.05 | DeepLearningForAudio | - | 1. Course overview <br> 2. Ai, machine learning and deep learning <br> 3. Implementing an artificial neuron from scratch <br> 4. Vector and matrix operations |
+| 23.04.05 | DeepLearningForAudio | V | 1. Course overview <br> 2. Ai, machine learning and deep learning <br> 3. Implementing an artificial neuron from scratch <br> 4. Vector and matrix operations |
+| 23.04.16 | DeepLearningForAudio | - | 5. Computation in NN <br> 6. Implementing a NN from scratch <br> 7. Backpropagation and Gradient Descent <br> 8. Training a NN: Implementing back propagation from scratch |
   
   
 ### Reference
