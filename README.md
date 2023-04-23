@@ -28,7 +28,8 @@
 | 23.03.22 | DSP6 | V | 16. Extracting Explained Easily <br> 17. Mel Spectrogram Explained Easily <br> 18. Mel Spectrogram with Python |
 | 23.03.29 | DSP7 | V | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
 | 23.04.05 | DeepLearningForAudio | V | 1. Course overview <br> 2. Ai, machine learning and deep learning <br> 3. Implementing an artificial neuron from scratch <br> 4. Vector and matrix operations |
-| 23.04.16 | DeepLearningForAudio | - | 5. Computation in NN <br> 6. Implementing a NN from scratch <br> 7. Backpropagation and Gradient Descent <br> 8. Training a NN: Implementing back propagation from scratch |
+| 23.04.16 | DeepLearningForAudio | V | 5. Computation in NN <br> 6. Implementing a NN from scratch <br> 7. Backpropagation and Gradient Descent <br> 8. Training a NN: Implementing back propagation from scratch |
+| 23.04.23 | DeepLearningForAudio | - | 9. How to implement a simple NN with TF <br> 10. Understanding audio data for DL <br> 11. Preprocessing audio data for DL <br> 12. Music genre classification: Prepararing the dataset |
   
   
 ### Reference
