@@ -11,6 +11,15 @@ https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classif
 
 
 ## Solving Overfitting
+```python
+# 커널 정규화
+tf.keras.layers.Dense(512, activation='relu', kernel_regularizer=tf.keras.regularizers.l2(0.001)),
+tf.keras.layers.Dropout(0.3)
+```
+https://www.tensorflow.org/api_docs/python/tf/keras/regularizers/Regularizer  
+
+### Plotting
+
 ![image](image/3.solving_overfitting.png)
 
 ## MLflow
