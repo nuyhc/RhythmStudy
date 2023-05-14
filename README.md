@@ -29,7 +29,10 @@
 | 23.03.29 | DSP7 | V | 19. MFCCs Explained Easily <br> 20. Extracting MFCCs with Python <br> 21. Frequency-Domain Audio Features <br> 22. Implementing Band Energy Ratio from Scratch with Python <br> 23. Spectral centroid and bandwidth |
 | 23.04.05 | DeepLearningForAudio | V | 1. Course overview <br> 2. Ai, machine learning and deep learning <br> 3. Implementing an artificial neuron from scratch <br> 4. Vector and matrix operations |
 | 23.04.16 | DeepLearningForAudio | V | 5. Computation in NN <br> 6. Implementing a NN from scratch <br> 7. Backpropagation and Gradient Descent <br> 8. Training a NN: Implementing back propagation from scratch |
-| 23.04.23 | DeepLearningForAudio | - | 9. How to implement a simple NN with TF <br> 10. Understanding audio data for DL <br> 11. Preprocessing audio data for DL <br> 12. Music genre classification: Prepararing the dataset |
+| 23.04.23 | DeepLearningForAudio | V | 9. How to implement a simple NN with TF <br> 10. Understanding audio data for DL <br> 11. Preprocessing audio data for DL <br> 12. Music genre classification: Prepararing the dataset |
+| 23.04.30 | DeepLearningForAudio | V | 13. Implementing a NN for music genre classification <br> 14. Solving overfitting in NN <br> 15. How does a CNN |
+| 23.05.07 | DeepLearningForAudio | V | 15. How does a CNN <br> 16. How to implement a CNN for music genre classification <br> 17. RNN |
+| 23.05.14 | DeepLearningForAudio | V | 18. LSTM <br> 19. How to implement an RNN-LSTM for music genre classification |
   
   
 ### Reference
