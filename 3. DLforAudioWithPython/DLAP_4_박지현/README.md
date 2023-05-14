@@ -20,7 +20,12 @@ https://www.tensorflow.org/api_docs/python/tf/keras/regularizers/Regularizer
 
 ### Plotting
 
+#### solving overfitting
 ![image](image/3.solving_overfitting.png)
+
+#### RNN-LSTM
+![image](4.RNN-LSTM.png)
+
 
 ## MLflow
 https://github.com/amesar/mlflow-examples
